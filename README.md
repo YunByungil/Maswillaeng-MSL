@@ -1,19 +1,21 @@
-# 술을 좋아하는 사람들의 커뮤니티 사이트
-## 프로젝트 소개
+# 술을 좋아하는 사람들의 커뮤니티 사이트  
+  
+  
+## 🍻프로젝트 소개
 - 술을 좋아하는 사람들을 위한 커뮤니티 게시판
 
-## 작업 기간 (2023.01 ~ 2023.04)
+## 🌟작업 기간 (2023.01 ~ 2023.04)
 
-## 커밋 로그
+## 💻커밋 로그
 https://github.com/Maswillaeng/MSL-backend/commits/YunByungil-backup
 
-## 팀원
+## 🌈팀원
 |역할|이름|
 |---|---|
 |프론트엔드|신동민|
 |백엔드|윤병일|
 
-## 기술 스택
+## 🚀기술 스택
 
 
 ### 프론트엔드
@@ -44,7 +46,7 @@ https://github.com/Maswillaeng/MSL-backend/commits/YunByungil-backup
 ## ERD
 ![img.png](img/img.png)
 
-### 주요 기능
+### ⚡️주요 기능
 
 - 인증 / 인가
   - 회원가입
@@ -64,7 +66,7 @@ https://github.com/Maswillaeng/MSL-backend/commits/YunByungil-backup
 - 해시태그
   - 게시글 등록 시 해시태그 등록
 
-## 페이지
+## 🧐페이지
 <hr>
 
 ### 마이페이지
