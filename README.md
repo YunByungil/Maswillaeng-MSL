@@ -43,7 +43,7 @@ https://github.com/Maswillaeng/MSL-backend/commits/YunByungil-backup
 
 <hr>
 
-## ERD
+## 🎯ERD
 ![img.png](img/img.png)
 
 ### ⚡️주요 기능
