@@ -1,6 +1,6 @@
-# 술을 좋아하는 사람들의 커뮤니티 사이트  
-  
-  
+# 술을 좋아하는 사람들의 커뮤니티 사이트
+
+
 ## 🍻프로젝트 소개
 - 술을 좋아하는 사람들을 위한 커뮤니티 게시판
 
@@ -65,6 +65,19 @@ https://github.com/Maswillaeng/MSL-backend/commits/YunByungil-backup
   - 대댓글 입력, 수정, 삭제
 - 해시태그
   - 게시글 등록 시 해시태그 등록
+  
+  
+## 📌접한 예외, 그리고 해결  
+
+[detached entity passed to persist 예외](https://byungil.tistory.com/232)  
+  
+[could not initialize proxy - no Session 예외](https://byungil.tistory.com/241)  
+  
+[JPA: Parameter value [1] did not match expected type](https://byungil.tistory.com/245)
+
+[com.querydsl.core.types.ExpressionException](https://byungil.tistory.com/246)  
+  
+[No enum constant: QueryDSL에서 Enum타입을 어떻게 받아서 처리할 수 있을까?](https://byungil.tistory.com/249)
 
 ## 🧐페이지
 <hr>
